@@ -580,7 +580,3 @@ http://users.cis.fiu.edu/~lzhen001/activities/KDD2011Program/docs/p627.pdf
 http://research.microsoft.com/pubs/158806/CriminisiForests_FoundTrends_2011.pdf
 The later also introduces the idea of manifold forests which can be learned using down stream analysis of the
 outputs of leafcount to find the Fiedler vectors of the graph laplacian. 
-
-
-
-    
